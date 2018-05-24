@@ -1,17 +1,20 @@
 ---
 name: Animetrics
 x-slug: animetrics
-description: ""
-image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/animetrics-face-recognition.png
+description: Animetrics is a leading developer of advanced 3D face recognition applications
+  and face identity management solutions. www.Animetrics.com
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1767-animetrics.jpg
 x-kinRank: "7"
-x-alexaRank: ""
+x-alexaRank: "2413939"
 tags: Animetrics
-created: "2018-05-22"
-modified: "2018-05-22"
+created: "2018-05-24"
+modified: "2018-05-24"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/animetrics/master/_listings/animetrics/apis.md
 specificationVersion: "0.14"
 apis: []
 x-common:
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/animetrics
 - type: x-github
   url: https://github.com/animetrics
 - type: x-twitter
